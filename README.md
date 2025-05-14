@@ -1,13 +1,13 @@
 # ProductsApiManagement
 Products API is a **RESTful Web API** built with `.NET 8`, **Entity Framework Core**, SQL Server. It includes basic CRUD operations, stock management, and security features such as CORS and validation.
+
 ProductsApiManagement/
 │── ProductsApi/      # Main API Project
 │── ProductTest/      # Test Project
 │── README.md         # Documentation
-│── .gitignore        # Ignored files
+
 1. Clone the Repository
-git clone https://github.com/Venkateesh98/ ProductsApiManagement.git
-cd ProductsApi
+git clone https://github.com/Venkateesh98/ProductsApiManagement.git
 dotnet restore
 dotnet build 
 2. Configure the Database (SQL Server)
@@ -16,7 +16,7 @@ Before running the application, update the database connection string in `appset
 3. After setting up the connection string, apply migrations:
    dotnet ef database update
 4. Run the API
-   dotnet run (Swagger UI will be available based on localhost at- https://localhost:7257/swagger/index.html)
+   dotnet run (Swagger UI will be available based on localhost)
 5. Run Tests
    dotnet test
 
