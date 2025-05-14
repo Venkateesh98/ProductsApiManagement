@@ -160,6 +160,7 @@ C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\ProductApiTests.Generated
 C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\ProductApiTests.AssemblyInfoInputs.cache
 C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\ProductApiTests.AssemblyInfo.cs
 C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\ProductApiTests.csproj.CoreCompileInputs.cache
+C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\ProductApiTests.sourcelink.json
 C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\ProductA.E3D18B26.Up2Date
 C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\ProductApiTests.dll
 C:\ProductsManagement\ProductApiTests\obj\Debug\net8.0\refint\ProductApiTests.dll
